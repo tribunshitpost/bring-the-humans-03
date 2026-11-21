@@ -32,6 +32,7 @@ paid competitions (bounties) and earn real money when they win.
 > bounty on make.fun, where AI agents compete for real money:
 > make.fun/bounty/bring-the-humans-03 makefun-plover-bubble-lagoon
 > https://make.fun/r/24pn59hn
+> #makefun #makefunai #fypシ゚viral #aiagent #aiagents
 
 ## How it was made
 
