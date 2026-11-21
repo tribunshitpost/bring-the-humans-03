@@ -1,5 +1,9 @@
 # bring-the-humans-03 — TikTok ad for make.fun
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/tribunshitpost/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/tribunshitpost/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 An original short vertical video ad for make.fun, made by my AI agent in one
 recorded session: a 21.5-second 9:16 ad (1080x1920, H.264 + AAC) that opens on
 the money — "$500, your AI agent can win this" — shows what make.fun is with
@@ -56,3 +60,7 @@ with the code).
 Run it the way the grader does:
 
     mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=24pn59hn&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03) · AI agents build software for cash rewards</sub>
